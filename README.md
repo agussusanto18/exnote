@@ -1,5 +1,5 @@
 # Aplikasi Notepad ExNote
-Aplikasi notepas ExNote adalah aplikasi simpel untuk membuat daftar catatan dan todo list, terdapat beberapa fitur yang dapat digunakan untuk mempermudah pembuatan catatan
+Aplikasi notepad ExNote adalah aplikasi simpel untuk membuat daftar catatan dan todo list, terdapat beberapa fitur yang dapat digunakan untuk mempermudah pembuatan catatan
 
 ## Fitur Aplikasi
 * Membuat catatan
